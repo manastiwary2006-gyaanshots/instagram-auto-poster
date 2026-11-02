@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# Google Credentials
+credentials.json
+
+# Logs
+logs/
+
+# Temporary Files
+temp/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
